@@ -157,7 +157,7 @@ int main(void)
     
     // unsigned int shader = createShader(vshader, fshader);
     // glUseProgram(shader);
-    Shader ourShader("/Users/testTheOne/Desktop/MoreOPENGL/MoreOPENGL/Shaders/Basic.shader");
+    Shader ourShader("/MoreOPENGL/Shaders/Basic.shader");
     
     
     /* Loop until the user closes the window */
