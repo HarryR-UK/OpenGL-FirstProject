@@ -89,7 +89,7 @@ int main(void)
     glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GLFW_TRUE);
     glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);
     
-    window = glfwCreateWindow(WINDOW_WIDTH, WINDOW_HEGIHT, "BALLS", NULL, NULL);
+    window = glfwCreateWindow(WINDOW_WIDTH, WINDOW_HEGIHT, "OPENGL", NULL, NULL);
 
 
     if (!window)
